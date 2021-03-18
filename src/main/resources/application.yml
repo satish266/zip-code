@@ -1,0 +1,6 @@
+application-description: Given a collection of 5-digit ZIP code ranges (each range includes both their upper and lower bounds), provide an algorithm that produces the minimum number of ranges required to represent the same restrictions as the input.
+application-version: 1.0
+logging:
+    file:
+        name: code-challenge-logs.txt
+        path: /path/to/a/file

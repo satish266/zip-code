@@ -1,0 +1,15 @@
+2021-03-18 17:33:43.329  INFO 14448 --- [main] c.s.c.WilliamsSonomaChallengeApplication : Starting WilliamsSonomaChallengeApplication using Java 15.0.1 on INHYNASOMASI01 with PID 14448 (C:\Users\asomasi\pincode\williams-sonoma-challenge\bin\main started by asomasi in C:\Users\asomasi\pincode\williams-sonoma-challenge)
+2021-03-18 17:33:43.334  INFO 14448 --- [main] c.s.c.WilliamsSonomaChallengeApplication : No active profile set, falling back to default profiles: default
+2021-03-18 17:33:44.134  INFO 14448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-18 17:33:44.150  INFO 14448 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-18 17:33:44.152  INFO 14448 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-18 17:33:44.264  INFO 14448 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-18 17:33:44.264  INFO 14448 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 891 ms
+2021-03-18 17:33:44.458  INFO 14448 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-18 17:33:45.821  INFO 14448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-18 17:33:45.829  INFO 14448 --- [main] c.s.c.WilliamsSonomaChallengeApplication : Started WilliamsSonomaChallengeApplication in 2.827 seconds (JVM running for 3.526)
+2021-03-18 17:33:59.128  INFO 14448 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-18 17:33:59.128  INFO 14448 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-18 17:33:59.128  INFO 14448 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-03-18 17:33:59.539  INFO 14448 --- [http-nio-8080-exec-7] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 57 ms
+2021-03-18 17:34:14.372  INFO 14448 --- [http-nio-8080-exec-8] c.s.c.resources.ZipRangeResource         : [ BuildZipCodeRange method [[Ljava.lang.Integer;@6325c3ff, [Ljava.lang.Integer;@7c99c760, [Ljava.lang.Integer;@14f09139] ]
